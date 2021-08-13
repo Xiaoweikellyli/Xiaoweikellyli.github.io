@@ -1,0 +1,137 @@
+/* STYLE SECTIONING TAGS */
+* { /* Reset the space of the webpage */
+   margin: 0px;
+   padding: 0px;
+}
+
+body {
+ background-color: #defff8; 
+}
+
+/* STYLE TEXT */
+h2 {
+  font-size: 35px;
+  text-align: center;
+  padding-top: 30px;
+  padding-bottom: 15px;
+  font-family: 'Acme', sans-serif;
+}
+h3 {
+  font-size: 30px;
+  text-align: center;
+  padding: 10px;
+  font-family: 'Acme', sans-serif;
+}
+
+p{
+  font-size: 23px;
+  text-align: center;
+  padding: 20px;
+  font-family: 'Patrick Hand', cursive;
+  margin-left: 20%;
+  margin-right: 20%;
+}
+
+.YOU {
+  font-size: 25px;
+}
+
+main {
+  padding-bottom: 2%;
+  padding-top: 2%;
+}
+
+#titlee {
+  float: left;
+  padding-left: 10px;
+  padding-top: 13px;
+}
+
+/* STYLE IMAGES */
+
+.images {
+  display: inline;
+  text-align: center;
+}
+
+.moreImages {
+  display: block;
+  block-size: 100%;
+  overflow: hidden;
+}
+
+.actionImage {
+  padding-top: 2%;
+}
+
+#issuesImage {
+  display:inline;
+}
+
+
+/* STYLE NAV BAR */
+
+h1 {
+  display:block;
+  block-size: 100%;
+  background-color: rgb(39, 145, 122);
+  color: white;
+  font-size: 50px;
+  text-align: center;
+  font-family: 'Permanent Marker', cursive;
+}
+
+nav {
+  background-color: rgb(39, 145, 122);
+  list-style-type: none;
+  padding-top:2%;
+  padding-bottom:2%;
+  text-align: center;
+  font-family: 'Acme', sans-serif;
+}
+
+nav li {
+  display: inline;
+}
+
+nav li a {
+  text-decoration: none;
+  color: white;
+  font-size: 25px;
+  padding-left: 5%;
+  padding-right: 2%;
+}
+
+#navLinks a:hover {
+  font-size: 250%;
+}
+
+/* STYLE BUTTONS */
+
+#factButton {
+  display:inline;
+  background-color: white;
+  border-color: #defff8;
+  padding: none;
+  margin: none;
+}
+
+.youtube {
+  padding-top: 3%;
+}
+
+button {
+  font-size: 23px;
+  text-align: center;
+  padding: 20px;
+  font-family: 'Patrick Hand', cursive;
+  margin-left: 20%;
+  margin-right: 20%;
+}
+
+/* ADD MORE! */
+
+.youtube {
+  margin-left: 10%;
+  margin-right: 10%;
+}
